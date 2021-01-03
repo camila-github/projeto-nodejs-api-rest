@@ -12,14 +12,14 @@ https://www.npmjs.com/package/json-server#getting-started
 Dentro do diretorio do projeto, inicie o projeto com o comando abaixo. Será criado o arquivo 'package.json', onde constará as dependencias do projeto.
 
 ```
-npm init
+$  npm init
 ```
 
 
 Dentro do diretorio do projeto, instale o pacote json-server na opção global. Execute o comando abaixo no terminal. Será criado a pasta 'node-modules' e tambem será registrado a dependencia do json-server no arquivo 'package.json'.
 
 ```
-npm install -g json-server
+$  npm install -g json-server
 ```
 
 
@@ -45,7 +45,7 @@ Crie um arquivo db.json com a estrutura que a sua API terá. Abaixo um modelo co
 Depois inicie o json-server, para subir a API. Utilize o comando abaixo. Detalhe: caso a porta esteja em uso com alguma aplicação, utilize outra porta que esteja disponivel.
 
 ```
-json-server --watch db.json --port 3000
+$  json-server --watch db.json --port 3000
 ```
 
 
