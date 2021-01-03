@@ -1,0 +1,38 @@
+{
+    "livros": [{
+            "id": 1,
+            "titulo": "javascript",
+            "autor": "autor1",
+            "ano": 2020
+        },
+        {
+            "id": 2,
+            "titulo": "sql",
+            "autor": "autor2",
+            "ano": 2019
+        },
+        {
+            "id": 3,
+            "titulo": "react",
+            "autor": "autor3",
+            "ano": 2020
+        },
+        {
+            "id": 4,
+            "titulo": "react native",
+            "autor": "autor4",
+            "ano": 2019
+        }
+    ],
+    "animais": [{
+            "id": 1,
+            "tipo": "cachorro",
+            "nome": "rex"
+        },
+        {
+            "id": 2,
+            "tipo": "gato",
+            "nome": "nina"
+        }
+    ]
+}
