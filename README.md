@@ -1,6 +1,6 @@
 ## Projeto: Criação de api Rest utilizando NodeJS + pacote json-server.
 
-- O proposito do projeto é criar uma API REST utilizando o NodeJS + pacote json-server para subir a API e disponibilizar todas as rotas de uma API REST (GET, POST, PUT, DELETE). 
+- O proposito do projeto é criar uma API REST utilizando o NodeJS + pacote json-server para subir a API e disponibilizar todas as rotas de uma API REST (get, post, put, delete). 
 
 - Link de Referencia: 
 	[https://www.npmjs.com/package/json-server#getting-started](https://www.npmjs.com/package/json-server#getting-started)
